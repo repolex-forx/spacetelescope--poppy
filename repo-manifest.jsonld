@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/poppy/commit/5e76d377bd27cce0e43268db4a1bcc61c29316b9",
       "git:hexsha": "5e76d377bd27cce0e43268db4a1bcc61c29316b9",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.2.0",
+      "repolex:parsedAt": "2026-10-17T02:40:50.105440+00:00"
     },
     {
       "@id": "https://repolex.ai/r/spacetelescope/poppy/commit/5e9a718c8f36fb6912638ff1ef14a56a58a70796",
