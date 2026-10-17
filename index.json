@@ -1,0 +1,11 @@
+{
+  "org": "spacetelescope",
+  "repo": "poppy",
+  "versions": [
+    {
+      "commit": "5e76d377bd27cce0e43268db4a1bcc61c29316b9",
+      "tag": "v1.2.0",
+      "parsed_at": "2026-10-17T02:40:50.106073+00:00"
+    }
+  ]
+}
