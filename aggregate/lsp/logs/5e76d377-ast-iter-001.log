@@ -1,0 +1,7 @@
+[2026-10-17T02:37:48Z] === AST ITERATION 1 START | repo=spacetelescope/poppy sha=5e76d377 ===
+[2026-10-17T02:37:48Z] [iter=1] PHASE START: ast repo=spacetelescope/poppy sha=5e76d377
+[2026-10-17T02:37:48Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T02:39:31Z] [iter=1] AST chunks built count=1 triples=890617
+[2026-10-17T02:39:31Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/5e76d377bd27cce0e43268db4a1bcc61c29316b9/.complete
+[2026-10-17T02:39:31Z] [iter=1] PHASE END: ast elapsed_s=103 elapsed_min=1.7
+[2026-10-17T02:39:31Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
